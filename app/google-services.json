@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222335966964",
+    "project_id": "firenahee-ed670",
+    "storage_bucket": "firenahee-ed670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222335966964:android:290df06f50ba4bcdf048a1",
+        "android_client_info": {
+          "package_name": "com.example.firekuyraisus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222335966964-6vjk9r971ktmr1qapdrjqu16sl0f6r22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUoUQwOJmJbUCgm4F8G_LxljLwJ6AdoGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222335966964-6vjk9r971ktmr1qapdrjqu16sl0f6r22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
